@@ -47,7 +47,7 @@ This is the starter for the Flask React project.
 1. Clone this repository (only this branch)
 
    ```bash
-   git clone https://github.com/appacademy-starters/python-project-starter.git
+   git clone https://github.com/grau-maus/web-scraper-app.git
    ```
 
 2. Install dependencies
